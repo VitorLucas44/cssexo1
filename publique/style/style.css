@@ -53,3 +53,24 @@ justify-content: center;
   margin-left: 120px;
   margin-right: 120px;
 }
+
+footer{
+    background-color: rgb(49, 49, 49);
+    height: 400px;
+}
+
+footer ul ol{
+    position: relative;
+    display: inline;
+    margin:0 30px;
+    color: aliceblue;
+    left: 380px;
+    top: 100px;
+     font-size: large;
+}
+
+.imgfoot{
+    position: relative;
+    top: 100px;
+    left: 460px;
+}
