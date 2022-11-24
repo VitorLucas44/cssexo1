@@ -98,3 +98,5 @@ a {
     text-decoration : none;
     font-size: large;
 }
+ul {list-style: none}
+li::before {content: "•"; color: darkorchid}
