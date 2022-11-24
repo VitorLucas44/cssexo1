@@ -9,7 +9,7 @@ button{
 
 .imgnav {
     position: relative;
-    right: 560px;
+    right: 490px;
 }
 
 .navbartitre {
@@ -58,8 +58,10 @@ h1 {
     margin-right: 120px;
 }
 
-.section2 h1 p {
-    color: blueviolet;
+.section2 h1 {
+    position: relative;
+    right:270px;
+    top: 10px;
 }
 
 footer {
@@ -93,4 +95,6 @@ h1 {
 
 a {
     color: rgb(84, 69, 69);
+    text-decoration : none;
+    font-size: large;
 }
