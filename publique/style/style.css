@@ -10,6 +10,34 @@
 }
 
 .navbartitre{
-    justify-content: center;
-    height: 90px;
+   display: flex;
+   justify-content: center;
+   
+}
+
+.imgnav2{
+    position: relative;
+    top: 30px;
+}
+
+.navbartitre ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbartitre ul li{
+    display: inline;
+    margin:0 30px;
+
+}
+.coworking{
+    position: relative;
+    left: 120px;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 120px;
 }
