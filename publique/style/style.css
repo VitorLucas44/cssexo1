@@ -38,6 +38,12 @@
 
 h1{
     text-align: center;
-    position: relative;
+    margin-top: 110px;
     top: 120px;
+}
+
+.section1{
+    justify-content: center;
+  margin-left: 120px;
+  margin-right: 120px;
 }
