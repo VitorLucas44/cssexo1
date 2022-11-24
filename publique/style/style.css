@@ -1,0 +1,15 @@
+.nav1{
+    display: flex;
+   justify-content: center;
+   background-color: darkorchid;
+}
+
+.imgnav{
+    position: relative;
+    right: 580px;
+}
+
+.navbartitre{
+    justify-content: center;
+    height: 90px;
+}
